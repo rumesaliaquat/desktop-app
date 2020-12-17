@@ -1,0 +1,16 @@
+C:\Users\Rumesa Liaquat\source\repos\imsproject\bin\Debug\imsproject.exe.config
+C:\Users\Rumesa Liaquat\source\repos\imsproject\bin\Debug\imsproject.exe
+C:\Users\Rumesa Liaquat\source\repos\imsproject\bin\Debug\imsproject.pdb
+C:\Users\Rumesa Liaquat\source\repos\imsproject\obj\Debug\imsproject.MDI.resources
+C:\Users\Rumesa Liaquat\source\repos\imsproject\obj\Debug\imsproject.Properties.Resources.resources
+C:\Users\Rumesa Liaquat\source\repos\imsproject\obj\Debug\imsproject.Sample.resources
+C:\Users\Rumesa Liaquat\source\repos\imsproject\obj\Debug\imsproject.csproj.GenerateResource.cache
+C:\Users\Rumesa Liaquat\source\repos\imsproject\obj\Debug\imsproject.csproj.CoreCompileInputs.cache
+C:\Users\Rumesa Liaquat\source\repos\imsproject\obj\Debug\imsproject.exe
+C:\Users\Rumesa Liaquat\source\repos\imsproject\obj\Debug\imsproject.pdb
+C:\Users\Rumesa Liaquat\source\repos\imsproject\obj\Debug\imsproject.Login.resources
+C:\Users\Rumesa Liaquat\source\repos\imsproject\obj\Debug\imsproject.csprojAssemblyReference.cache
+C:\Users\Rumesa Liaquat\source\repos\imsproject\obj\Debug\imsproject.Settings.resources
+C:\Users\Rumesa Liaquat\source\repos\imsproject\obj\Debug\imsproject.HomeScreen.resources
+C:\Users\Rumesa Liaquat\source\repos\imsproject\obj\Debug\imsproject.Sample2.resources
+C:\Users\Rumesa Liaquat\source\repos\imsproject\obj\Debug\imsproject.Users.resources
